@@ -5,7 +5,7 @@ Scraper in python to collect data from Wikipedia about the top cities in the Uni
 Install wikpepdia library to jupyter environment before starting
  
 # Installing
-Run the below commands to install the wikipedia library:
+Run the below command to install the wikipedia library:
  
 !pip install wikipedia
  
