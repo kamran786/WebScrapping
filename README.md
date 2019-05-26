@@ -1,5 +1,5 @@
 # WebScrapping
-Scraper in python to collect data from Wikipedia about the top cities in the United States.
+[Webscraping.ipynb](Webscraping.ipynb) is a scraper in python to collect data from Wikipedia about the top cities in the United States.
 
 # Prerequisites
 Install wikpepdia library to jupyter environment before starting
