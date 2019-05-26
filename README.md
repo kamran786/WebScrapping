@@ -13,7 +13,7 @@ Run the below commands to install the wikipedia library:
 Kamran Ahmad
  
 # License
-This work is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This work is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
  
 
  
